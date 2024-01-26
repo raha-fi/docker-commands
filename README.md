@@ -1,12 +1,3 @@
----
-title: Essential Docker Commands
-date: 2024-01-15
-tags: ["Docker Tutorial","Docker", "docker commands"]
-image : "/img/posts/docker-commands.png"
-Description  : "Let's learn major docker commands and how to use CLI to interact with our containers..."
-featured: true
----
-
 ### Docker Syntax Changes: Adapting to New Standards
 In the latest update, Docker has modified its command-line syntax to be more structured and intuitive, shifting from simpler commands like docker build to more explicit ones such as docker image build. This change aims to enhance clarity, precision, and functionality by categorizing commands under specific resource types. While the older syntax remains functional for now, it's crucial for users to adapt to the new syntax to ensure compatibility with future Docker features and updates, necessitating updates in documentation, practice in new projects, and staying informed through Docker's official channels. In this tutorial we will use the nex syntaxes for all the commands.
 
